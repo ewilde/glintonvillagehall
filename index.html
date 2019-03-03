@@ -1,6 +1,29 @@
 ---
 layout: default
 ---
+<script src="js/jquery-2.1.0.min.js"></script>
+<script src="js/jquery.swipebox.min.js"></script>
+<link rel="stylesheet" href="css/swipebox.min.css">
+<script type="text/javascript">
+;( function( $ ) {
+
+  $( '.swipebox' ).swipebox( {
+    useCSS : true, // false will force the use of jQuery for animations
+    useSVG : true, // false to force the use of png for buttons
+    initialIndexOnArray : 0, // which image index to init when a array is passed
+    hideCloseButtonOnMobile : false, // true will hide the close button on mobile devices
+    removeBarsOnMobile : true, // false will show top bar on mobile devices
+    hideBarsDelay : 3000, // delay before hiding bars on desktop
+    videoMaxWidth : 1140, // videos max width
+    beforeOpen: function() {}, // called before opening
+    afterOpen: null, // called after opening
+    afterClose: function() {}, // called after closing
+    loopAtEnd: false // true will return to the first image after the last image is reached
+  } );
+
+} )( jQuery );
+</script>
+
 <div class="home">
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
@@ -40,6 +63,15 @@ layout: default
   {% endif %}
   {% endfor %}
 </ul>
+
+
+
+
+<div>
+  <a href="photos/hall_lg.jpg" class="swipebox" title="My Caption">
+     <img width="280px" height="280px" src="photos/hall_sm.jpg" class="photo-sm">
+  </a>
+</div>
 
 <nav class="pagination" role="navigation">
 	<p>
@@ -81,6 +113,9 @@ layout: default
 		{% endif %}
 	</p>
 </nav>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2421.1563585071644!2d-0.2997241838673414!3d52.639088079837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4877f421ce6dce77%3A0xa283b17f5dbebeee!2sGlinton+Village+Hall!5e0!3m2!1sen!2suk!4v1551619261363" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 </div>
 </div>

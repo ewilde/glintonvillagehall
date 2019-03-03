@@ -21,7 +21,6 @@ description: >
 baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -29,6 +28,9 @@ paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
+
+plugins:
+  - jekyll-gallery-generator
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
