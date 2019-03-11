@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Glinton Village Hall
-subtitle: "A simple way to book your village hall"
+subtitle: "At the heart of the community"
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
-  A simple way to book your village hall.
+  At the heart of the community
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
