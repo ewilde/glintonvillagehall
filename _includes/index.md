@@ -1,1 +1,1 @@
-this is the home page
+A GREAT VENUE IN A GREAT LOCATION
