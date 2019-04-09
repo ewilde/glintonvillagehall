@@ -3,18 +3,34 @@ layout: page
 title: Bookings
 permalink: /bookings/
 ---
+ <strong>This is a calendar showing all events currently scheduled.
+
+ Scroll though to see what's on and check the availability of the village hall for your event.</strong>
+
+
+
+
+
+
 
 <iframe src="https://calendar.google.com/calendar/embed?src=jebq0oq6aolb2vtnd7ebtmsn9k%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-{% include bookings.md %}
 
 
+{% capture content %}{% include bookings.md %}{% endcapture %}
+{{ content | markdownify }}
     
         <style>
         .mobile-iframe{
         -webkit-overflow-scrolling: touch;
         }
         </style>
+
+
+
+
+
+
 
 
     

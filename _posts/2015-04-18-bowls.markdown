@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Indoor Bowls"
+date:   2015-04-18 08:43:59
+author: Ben Centra
+categories: Activities
+tags: ipsum
+---
+
+Indoor Bowls
+
+![bowls]({{ site.baseurl }}/photos/bowls.jpg)

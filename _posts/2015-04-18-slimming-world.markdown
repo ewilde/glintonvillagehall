@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Find Us"
+title:  "Slimming World"
 date:   2015-04-18 08:43:59
 author: 
-categories: Dummy
+categories: Activities
 ---
 
 Address
@@ -15,3 +15,4 @@ PE6 7JN
 
 
 
+![slimmingworld]({{ site.baseurl }}/photos/slimmingworld.jpg)

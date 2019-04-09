@@ -4,7 +4,16 @@ title: "Whats on"
 permalink: /whats-on/
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=jebq0oq6aolb2vtnd7ebtmsn9k%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
+
+
+
+<strong>Check out some of the regular activities that take place in the village hall. Click on the ones that interest you for details of when they happen and how to join in:<strong>
+
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
@@ -20,10 +29,18 @@ permalink: /whats-on/
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </strong>
-      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
     </li>
   {% endfor %}
   </ul>
   {% if forloop.last == false %}<hr>{% endif %}
 {% endfor %}
 <br>
+
+<strong>Or scroll though our calendar to see what's on and/or check the availability of the village hall for your event.<strong>
+
+
+<a href="https://calendar.google.com/calendar/embed?src=jebq0oq6aolb2vtnd7ebtmsn9k%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">Click here to view the calendar </a>
+
+
+
+
