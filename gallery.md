@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 ---
 
-[**Main Hall**](/photos/Main Hall.jpg)
+[**Main Hall**](/photos/MainHall.jpg)
 
 [**Zumba**](/photos/Zumba.jpg)
 

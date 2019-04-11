@@ -3,7 +3,7 @@
 <p style="text-align: center;">A GREAT VENUE IN A GREAT LOCATION</p>
 
 Glinton Village Hall is the ideal venue for private parties, meetings, fund raising events, rehearsal space and various classes.<br /> 
-There are 2 halls: the [**main hall**](/photos/Main Hall.jpg) and the [**small hall**](/photos/Small Hall.jpg). They are divided by an acoustic wall which enables the halls to be used separately or, by folding back the wall, both halls can be used together.<br />
+There are 2 halls: the [**main hall**](/photos/MainHall.jpg) and the [**small hall**](/photos/SmallHall.jpg). They are divided by an acoustic wall which enables the halls to be used separately or, by folding back the wall, both halls can be used together.<br />
  
 - To find out more about the vilage hall and its many facilities, click on [**About**](/about)
 - For details of our hire charges, click on [**Hire Rates**](/hire-rates)<br /> 

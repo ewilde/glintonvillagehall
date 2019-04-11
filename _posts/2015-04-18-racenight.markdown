@@ -2,9 +2,8 @@
 layout: post
 title:  "Race Night"
 date:   2015-04-18 08:43:59
-author: Ben Centra
+author: 
 categories: Activities
-tags: lorem
 ---
 
 Come and join us for an evening of racing fun..
