@@ -6,6 +6,6 @@ author:
 categories: Activities
 ---
 
-Indoor Bowls
+Indoor Bowls  - every Thursday from 5:30pm to 10:00pm
 
 ![bowls]({{ site.baseurl }}/photos/bowls.jpg)

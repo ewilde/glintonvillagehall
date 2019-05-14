@@ -1,0 +1,8 @@
+---
+layout: page
+title: Contact us
+permalink: /contact-us/
+order: 6
+---
+
+Contact us at [glintonvillagehall@icloud.com](mailto:glintonvillagehall@icloud.com)

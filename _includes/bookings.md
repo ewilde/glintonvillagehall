@@ -8,7 +8,9 @@
     
 <strong>By completing and sending the the booking form you are agreeing to the Conditions of Hire<strong/>
 
-[**CONDITIONS OF HIRE**](/assets/GLINTON VILLAGE HALL Conditions of Hire.pdf)
+[**CONDITIONS OF HIRE**](/assets/conditions.pdf)
+
+
 
 
 

@@ -6,13 +6,9 @@ author:
 categories: Activities
 ---
 
-Address
-Glinton Village Hall 
-High Street
-Glinton,
-Peterborough
-PE6 7JN
 
+**The Slimming World group meets every Wednesday from 4:00pm to 10:00pm**
 
 
 ![slimmingworld]({{ site.baseurl }}/photos/slimmingworld.jpg)
+

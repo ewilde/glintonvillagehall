@@ -2,6 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery/
+order: 3
 ---
 
 [**Main Hall**](/photos/MainHall.jpg)
@@ -16,4 +17,4 @@ permalink: /gallery/
 
 [**Mother and Toddlers Group**](/photos/toddlers.jpg)
 
-[**Bingo**](/photos/bingo.jpg)
+[**Bingo**](/photos/bingo.jpg)	
