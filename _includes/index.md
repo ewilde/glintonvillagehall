@@ -6,6 +6,7 @@
 
 **If you would you like to be part of the Glinton Community Association to support and contribute to the valuable work it does for the community, there are 3 vacancies on the GCA committee.
 We are looking for a secretary and two more members to join us. Please [contact us](Contact Us) if you are interested.
+We are looking for a secretary and two more members to join us. Please [contact us](Contact us) if you are interested.**
 
 
 
