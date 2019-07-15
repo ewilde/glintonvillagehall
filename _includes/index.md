@@ -4,7 +4,9 @@
 
 Glinton Village Hall is the ideal venue for private parties, meetings, fund raising events, rehearsal space and various classes.  It is very well used by everyone from pre-school children to senior citizens and is managed by the Glinton Community Association<br /> 
 
-**If you would you like to be part of the Glinton Community Association to support and contribute to the valuable work it does for the community, there are 3 vacancies on the GCA committee.
+***NEWSFLASH***
+
+**If you would you like to be part of the Glinton Community Association (GCA) to support and contribute to the valuable work it does for the community, there are 3 vacancies on the GCA committee.
 We are looking for a secretary and two more members to join us. Please [contact us](villagehall/contact-us.md) if you are interested.**
 
 
