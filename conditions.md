@@ -1,3 +1,11 @@
+---
+layout: page
+title: Conditions of hire
+permalink: /conditions/
+order: 1
+main_nav: false
+---
+
 ### GLINTON VILLAGE HALL  
 
 Please ensure you read the following conditions for hiring the Hall and the related Fire Safety Notice which is very important.
