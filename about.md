@@ -26,7 +26,7 @@ It comprises:
 
   
 
-[**View village hall floorplan**](/photos/village hall layout.jpg.)
+[**View village hall floorplan**](/assets/village hall layout.jpg.)
 
 
 * A fitted kitchen – access from the small hall, with flexibility to use as a  bar, and including electric cooker, hob, microwave and fridge.   A limited number of plates, cutlery and glasses are available.
