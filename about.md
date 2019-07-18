@@ -23,20 +23,13 @@ It comprises:
 	60   people sitting at tables
 			  
 
-
-  
-
-[**View village hall floorplan**](/assets/layout.png)
-
-[**small hall**](/photos/SmallHall.jpg)
-
 * A fitted kitchen – access from the small hall, with flexibility to use as a  bar, and including electric cooker, hob, microwave and fridge.   A limited number of plates, cutlery and glasses are available.
 * Separate ladies & gents toilets & disabled toilets (access via the main hall).
 * Wheel chair access to the main hall 
 * Disabled (Blue Badge) parking on double yellow lines in front of the village hall
 * 20  tables and 80  chairs for internal use
 
-
+[**View village hall floorplan**](/assets/layout.png)
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
