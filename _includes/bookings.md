@@ -8,7 +8,7 @@
     
 <strong>By completing and sending the the booking form you are agreeing to the Conditions of Hire<strong/>
 
-[**CONDITIONS OF HIRE**](/assets/conditions.pdf)
+[**CONDITIONS OF HIRE**](/conditions.md)
 
 
 

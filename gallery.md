@@ -7,7 +7,7 @@ order: 3
 
 [**Main Hall**](/photos/MainHall.jpg)
 
-[**Zumba**](/photos/Zumba.jpg)
+[**Zumba**](/photos/zumba.jpg)
 
 [**Race Night**](/photos/racenight.jpg)
 
