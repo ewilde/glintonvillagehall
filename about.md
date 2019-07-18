@@ -9,10 +9,10 @@ order: 1
 In 1980 the former Methodist chapel was converted into a village hall. It is very well used by everyone from pre-school children to senior citizens and is managed by the Glinton Community Association. 
 It comprises:
 
-* The main hall   8.5m x 8m = 68 sq.m
-* The small hall  3.5m x 4m = 14 sq.m
+* The main hall : 75 sq.m
+* The small hall: 37 sq.m
 
-* A foldable screen separates the two halls and the combined area of both halls 82 sq.m
+* A foldable screen separates the two halls and the combined area of both halls is 112 sq.m
 
 * Total maximum capacity for the 2 halls is:
 
