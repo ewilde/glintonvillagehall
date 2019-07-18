@@ -28,7 +28,6 @@ It comprises:
 
 [**View village hall floorplan**](/assets/village hall layout.jpg.)
 
-
 * A fitted kitchen – access from the small hall, with flexibility to use as a  bar, and including electric cooker, hob, microwave and fridge.   A limited number of plates, cutlery and glasses are available.
 * Separate ladies & gents toilets & disabled toilets (access via the main hall).
 * Wheel chair access to the main hall 
