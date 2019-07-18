@@ -26,7 +26,7 @@ It comprises:
 
   
 
-[**View village hall floorplan**](/photos/villagehalllayout.jpg.)
+[**View village hall floorplan**](/photos/layout.jpg.)
 
 [**small hall**](/photos/SmallHall.jpg)
 
