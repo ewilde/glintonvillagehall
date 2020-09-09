@@ -5,9 +5,9 @@ permalink: /contact-us/
 order: 6
 ---
 
-Contact us at [glintonvillagehall@icloud.com](mailto:glintonvillagehall@icloud.com)
+Contact us at [glintonvillagehall@icloud.com](mailto:glintonvillagehall@icloud.com) 
 
 Visit us on [Facebook](https://www.facebook.com/glintonvillagehall/)
 
 
-Telephone: 07923 479466
+or telephone: 07923 479466
