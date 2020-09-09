@@ -10,4 +10,4 @@ Contact us at [glintonvillagehall@icloud.com](mailto:glintonvillagehall@icloud.c
 Visit us on [Facebook](https://www.facebook.com/glintonvillagehall/)
 
 
-or telephone: 07923 479466
+Telephone: 07923 479466
