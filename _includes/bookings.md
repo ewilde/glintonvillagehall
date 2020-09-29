@@ -7,7 +7,7 @@ If you would like to make a booking:
 - Telephone the bookings secretary on 07923 479466.
 
     
-Please read our [**conditions of hire**](/conditions) 
+Please read our [**conditions of hire**](/conditions)  and the [**supplementary conditions required as a result of Covid-19**](CovidT&C.pdf)
 
 
 
