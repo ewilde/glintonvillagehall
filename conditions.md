@@ -8,7 +8,9 @@ main_nav: false
 
 ### GLINTON VILLAGE HALL  
 
-Please ensure you read the following conditions for hiring the Hall and the related Fire Safety Notice which is very important.
+Please ensure you read the following conditions for hiring the Hall and the related Fire Safety Notice which is very important. 
+
+[**You should also read the additional terms and conditions necessitated by the Cov1d-19 epidemic.]**(/CovidT&C.pdf)
 
 To make sure your required dates are available always submit a booking request via the website or contact the bookings secretary at glintonvillagehall@icloud.com or telephone 07923475966
 
