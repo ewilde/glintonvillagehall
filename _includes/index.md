@@ -6,7 +6,7 @@ Glinton Village Hall is the ideal venue for private parties, meetings, fund rais
 
 ***NEWSFLASH***
 
-***Ihe Glinton Community Association has followed government advice to ensure that the village hall is Covid compliant. Please refer to our [risk assessment documentation](/riskassessment) for further details .***
+***The Glinton Community Association has followed government advice to ensure that the village hall is Covid compliant. Please refer to our [risk assessment documentation](/riskassessment) for further details .***
 
 
 
