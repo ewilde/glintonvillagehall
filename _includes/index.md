@@ -6,8 +6,7 @@ Glinton Village Hall is the ideal venue for private parties, meetings, fund rais
 
 ***NEWSFLASH***
 
-***If you would you like to be part of the Glinton Community Association (GCA) to support and contribute to the valuable work it does for the community, there are 3 vacancies on the GCA committee.
-We are looking for a secretary and two more members to join us. Please [contact us](/contact-us) if you are interested.***
+***Ihe Glinton Community Association has followed government advice to ensure that the village hall is Covid compliant. Please refer to our [risk assessment documentation](/riskassessment) for further details .***
 
 
 
