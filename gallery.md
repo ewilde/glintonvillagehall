@@ -15,7 +15,7 @@ order: 3
 
 [**Bingo**](/photos/bingo.jpg)	
 
-[**Friendship Club**](/photos/FC1.jpg/>)
+[**Friendship Club**](/photos/friendship.jpg/>)
 
 
 
