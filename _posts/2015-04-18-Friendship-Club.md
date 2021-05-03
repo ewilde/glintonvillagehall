@@ -9,3 +9,17 @@ categories: Activities
 The Friendship Club meets every Monday from 10:30am to 4:00pm
 
 ![friendship]({{ site.baseurl }}/photos/friendship.jpg)
+
+![friendship]({{ site.baseurl }}/photos/FC1.jpg)
+
+![friendship]({{ site.baseurl }}/photos/FC2.jpg)
+
+![friendship]({{ site.baseurl }}/photos/FC3.jpg)
+
+![friendship]({{ site.baseurl }}/photos/FC4.jpg)
+
+![friendship]({{ site.baseurl }}/photos/FC5.jpg)
+
+![friendship]({{ site.baseurl }}/photos/FC6.jpg)
+
+![friendship]({{ site.baseurl }}/photos/FC7.jpg)

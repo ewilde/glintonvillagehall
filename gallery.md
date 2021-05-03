@@ -7,14 +7,19 @@ order: 3
 
 [**Main Hall**](/photos/MainHall.jpg)
 
-[**Zumba**](/photos/zumba.jpg)
-
 [**Race Night**](/photos/racenight.jpg)
 
 [**Bowls**](/photos/bowls.jpg)
 
-[**Slimming World**](/photos/slimmingworld.jpg)
-
 [**Mother and Toddlers Group**](/photos/toddlers.jpg)
 
 [**Bingo**](/photos/bingo.jpg)	
+
+[**Friendship Club**](/photos/FC1.jpg/>)
+
+
+
+
+
+
+
