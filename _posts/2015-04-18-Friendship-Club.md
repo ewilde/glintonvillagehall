@@ -6,7 +6,9 @@ author:
 categories: Activities
 ---
 
-The Friendship Club meets every Monday from 10:30am to 4:00pm
+**The Friendship Club meets every Monday from 10:30am to 4:00pm**
+
+**For further information, contact them at** *glintonfriendship@btinternet.com*
 
 ![friendship]({{ site.baseurl }}/photos/friendship.jpg)
 
