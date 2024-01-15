@@ -4,12 +4,6 @@
 
 Glinton Village Hall is the ideal venue for private parties, meetings, fund raising events, rehearsal space and various classes.  It is very well used by everyone from pre-school children to senior citizens and is managed by the Glinton Community Association<br /> 
 
-***NEWSFLASH***
-
-***The Glinton Community Association has followed government advice to ensure that the village hall is Covid compliant. Please refer to our [risk assessment documentation](/riskassessment) for further details .***
-
-
-
 There are 2 halls: the [**main hall**](/photos/MainHall.jpg) and the [**small hall**](/photos/SmallHall.jpg). They are divided by an acoustic wall which enables the halls to be used separately or, by folding back the wall, both halls can be used together.<br />
  
 - To find out more about the vilage hall and its many facilities, click on [**About**](/about)
