@@ -5,4 +5,6 @@ permalink: /hire-rates/
 order: 4
 ---
 
-Details of the hire rates will appear here.
+- £12 for Parties ( no teenage parties), Christenings, Wakes.
+
+We have other rates for regular users please contact for more information.
