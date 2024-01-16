@@ -12,7 +12,7 @@ Please ensure you read the following conditions for hiring the Hall and the rela
 
 Please follow the link to the additional terms and conditions necessitated by the [**Covid-19 epidemic.**](/CovidT&C.pdf)
 
-To make sure your required dates are available always submit a booking request via the website or contact the bookings secretary at glintonvillagehall@icloud.com or telephone 07923475966
+To make sure your required dates are available always submit a booking request via the website or contact the bookings secretary at glintonvillagehall@icloud.com or telephone 07923 475966
 
 Please direct any enquiries about hire costs to the Bookings Secretary at the above email address or telephone number
 
@@ -20,12 +20,6 @@ Please direct any enquiries about hire costs to the Bookings Secretary at the ab
 
 
 1. IMPORTANT - A booking maybe cancelled if the hall is required at short notice for an Election or similar urgent function.
-
-1. By submitting an online booking request form or signing our printed booking form, you are agreeing to the Conditions of Hire
-
-
-1. No more than a MAXIMUM of 100 people standing, 80 people sitting in rows or 60 people sitting at tables are allowed in the hall at any one time. 
-
 
 1. At no time should Fire exits be blocked or obstructed. Those booking and using the Hall should make sure that they familiarize themselves with the Fire Safety notice and have understood it.
 
@@ -97,7 +91,7 @@ The person in charge should be aware of everyone who is attending the function i
 1. Please ensure that members of your group are designated with the responsibility to ensyre the building is vacated withou taking personal risk and tahat all people at the function are accounted for.
 The fire assembley p[oint is on the Green besde St. Benedict's church.
 
-1. Contact the Booking Secretary, Sue Lane at 18, Oak Road, Glinton, Peterborough PE6 7LD Tel: 07923475966
+1. Contact the Booking Secretary, Sue Lane at 18, Oak Road, Glinton, Peterborough PE6 7LD Tel: 07923 475966
 
 1.**UNDER NO CIRCUMSTANCES** should anyone re-enter the building until informed by a responsible person that it is safe to do so.
 
