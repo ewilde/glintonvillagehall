@@ -10,6 +10,6 @@ main_nav: false
 
 Please follow the link to our [**Covid Risk Assessment**](/Risk.pdf). Please read the documentation thoroughly to ensure it is applicable to the event you are planning and make any adjustments that may be necessary.
 
-Please address any enquiries to the bookings secretary at glintonvillagehall@icloud.com or telephone 07923475966
+Please address any enquiries to the bookings secretary at glintonvillagehall@icloud.com or telephone 07923 475966
 
 
