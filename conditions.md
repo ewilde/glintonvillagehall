@@ -58,13 +58,13 @@ Please direct any enquiries about hire costs to the Bookings Secretary at the ab
 
 
   * a)The law states that no-one must smoke within five metres of any door or window that opens. 
-  * b)By submitting an online booking request form or signing our printed booking form, the hirer agrees to ensure this smoking policy is adhered to and that any fine imposed upon the Hall by the appropriate authority will be passed onto, and paid by, the appropriate hirer. 
+  * b)By signing our printed booking form, the hirer agrees to ensure this smoking policy is adhered to and that any fine imposed upon the Hall by the appropriate authority will be passed onto, and paid by, the appropriate hirer. 
   * c)The hirer acknowledges ththt no smoking area is assigned to this hall 
 
 
 ### FIRE SAFETY NOTICE
 
-**It is essential that before submitting an online booking request form or signing our printed booking form the hirer must read the following fire safety notice**
+**It is essential that before making booking request the hirer must read the following fire safety notice**
 
 **Fire Safety**
 

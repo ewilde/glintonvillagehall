@@ -8,7 +8,7 @@ There are 2 halls: the [**main hall**](/photos/MainHall.jpg) and the [**small ha
  
 - To find out more about the vilage hall and its many facilities, click on [**About**](/about)
 - For details of our hire charges, click on [**Hire Rates**](/hire-rates)<br /> 
-- To make a booking, click on  [**Bookings**](/bookings) where you can check availability and complete an online booking request form<br /> 
+- To make a booking, click on  [**Bookings**](/bookings) where you can check availability and email or telephone the bookings secretary<br /> 
 - To find out about the regular activities which take place in the village hall including the  Mothers and Toddlers Group, Bowls, Bingo, Race Nights and many more, click on
 [**What's On**](/whats-on)<br /> 
 - Check out our [**Gallery**](/gallery) to see lots of examples of  the village hall in action!

@@ -3,7 +3,7 @@ layout: post
 title:  "Friendship Club"
 date:   2024-01-16 09:00:00
 author: 
-categories: Activities
+categories: activities
 ---
 
 **The Friendship Club meets every Monday from 10:00am to 2:00pm**

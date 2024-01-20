@@ -3,7 +3,7 @@ layout: post
 title:  "Indoor Bowls"
 date:   2024-01-16 09:00:00
 author: 
-categories: Activities
+categories: activities
 ---
 
 Indoor Bowls  - every Thursday from 5:30pm to 10:00pm
