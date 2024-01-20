@@ -3,7 +3,7 @@ layout: post
 title:  "Bingo"
 date:   2024-01-16 09:00:00
 author: 
-categories: Activities
+categories: activities
 ---
 
 ![bingo]({{ site.baseurl }}/photos/bingo.jpg)
